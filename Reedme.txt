@@ -1,0 +1,1 @@
+A continuacion se encuentran 2 algoritmos, uno para encontrar numeros primos, y el otro, para encontrar años bisiestos
