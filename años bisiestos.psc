@@ -1,12 +1,12 @@
-Algoritmo sin_titulo
+Algoritmo a√±o_bisiesto
 	
-	Escribir "Escribe un aÒo, te dirÈ si es bisiesto o no: ";
+	Escribir "Escribe un a√±o, te dir√© si es bisiesto o no: ";
 	Leer year
 	
-	si year mod 4 = 0 y ((aÒo mod 100 <> 0) o (aÒo mod 400=0)) Entonces 
-		Escribir "Es un aÒo bisiesto";
+	si year mod 4 = 0 y ((a√±o mod 100 <> 0) o (a√±o mod 400=0)) Entonces 
+		Escribir "Es un a√±o bisiesto";
 	SiNo
-		Escribir "No es un aÒo bisiesto";
+		Escribir "No es un a√±o bisiesto";
 	FinSi
 	
 	
