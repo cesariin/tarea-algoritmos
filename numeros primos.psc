@@ -1,4 +1,4 @@
-algoritmo sin_titulo
+algoritmo numeros_primos
 Escribir "Coloca un numero"
 Leer a
 
